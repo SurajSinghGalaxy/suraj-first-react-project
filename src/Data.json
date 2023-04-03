@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cardImg": "../blog-img-1.png",
+    "blogerImg": "../bloger-img.svg",
+    "blogerName": "Ricky Butler",
+    "blogerHeading": "My Revolutionery Bullshits About “ Atomic Habit”",
+    "blogSubHeading": "Technology",
+    "blogPara": "Your are winners Lorem ipsum dolor siterk amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "blogWatch": "./watch.svg",
+    "blogFirstHeading": "2983",
+    "blogSecondWatch": "./watch-img-2.svg",
+    "blogMinute": "4min",
+    "blogCalenderImg": "./calender.svg",
+    "blogDate": "July 30,2022"
+  },
+  {
+    "id": 2,
+    "cardImg": "../blog-img-2.png",
+    "blogerImg": "../bloger-img.svg",
+    "blogerName": "Rocky Butler",
+    "blogerHeading": "My Revolutionery Bullshits About “ Atomic Habit”",
+    "blogSubHeading": "Technology",
+    "blogPara": "Your are winners Lorem ipsum dolor siterk amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "blogWatch": "./watch.svg",
+    "blogFirstHeading": "2984",
+    "blogSecondWatch": "./watch-img-2.svg",
+    "blogMinute": "2min",
+    "blogCalenderImg": "./calender.svg",
+    "blogDate": "July 25,2022"
+  },
+  {
+    "id": 3,
+    "cardImg": "../blog-img-1.png",
+    "blogerImg": "../bloger-img.svg",
+    "blogerName": "Jems Butler",
+    "blogerHeading": "My Revolutionery Bullshits About “ Atomic Habit”",
+    "blogSubHeading": "Technology",
+    "blogPara": "Your are winners Lorem ipsum dolor siterk amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "blogWatch": "./watch.svg",
+    "blogFirstHeading": "2985",
+    "blogSecondWatch": "./watch-img-2.svg",
+    "blogMinute": "3min",
+    "blogCalenderImg": "./calender.svg",
+    "blogDate": "July 28,2022"
+  }
+]
