@@ -655,6 +655,11 @@
   .product_sec {
     padding: 70px 0;
   }
+  .product_sec h3.bdr::before {
+    top: 16px;
+    left: 80px;
+    right: auto;
+  }
   .footer {
     background: linear-gradient(
       180deg,
