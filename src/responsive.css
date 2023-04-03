@@ -421,6 +421,11 @@
     right: 62px;
     top: 21px;
   }
+  .product_sec h3.bdr:before {
+    left: auto;
+    right: 30px;
+    top: 20px;
+  }
   .contact-heading h3 {
     max-width: 204px;
   }
