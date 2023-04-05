@@ -49,7 +49,7 @@ function Greeting() {
                       Good Afternoon
                     </span>
                   ) : hour >= 16 && hour < 20 ? (
-                    <span className="ms-2" style={{ color: "#FAD6A5" }}>
+                    <span className="ms-2" style={{ color: "#f64f00" }}>
                       Good Evening
                     </span>
                   ) : (

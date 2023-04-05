@@ -322,13 +322,14 @@ p .content {
 .header .navbar-nav .nav-item .nav-link,
 .footer-bottom ul li a {
   font-family: "Fira Sans";
-  font-weight: 500;
+  font-weight: bold;
   font-size: 14px;
   line-height: 16px;
   color: #000000;
   transition: all 0.3s ease-in;
-  padding: 10px;
+  padding: 10px 2px;
   position: relative;
+  text-transform: uppercase;
 }
 
 .header .navbar-nav .nav-item .nav-link::before,
@@ -389,7 +390,7 @@ p .content {
 }
 
 .box h1 span {
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid #f64f00;
   padding-bottom: 2px;
 }
 
